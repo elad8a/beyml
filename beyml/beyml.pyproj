@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a69951c5-ad96-4721-88fc-5f777d3ffa88</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>ocl_timing.py</StartupFile>
+    <StartupFile>beyml.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
